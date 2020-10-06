@@ -1,0 +1,43 @@
+header {
+font-weight: bolder;
+color: #3CB371;
+text-align: center;
+
+}
+
+h1 {
+font-family: 'Peddana', serif;
+  padding: 10px;
+  font-weight: bold;
+  background-color: white;
+}
+body, footer {
+  display: table;
+  margin: auto;
+  width: 75%;
+  background-color: #F0F8FF;
+}
+div {
+  display: flex;
+
+}
+
+a {
+  color: black;
+}
+
+.wrapper {
+
+  width: 70%;
+  margin: auto;
+  background-color: #98FB98;
+  padding: 15px;
+}
+
+footer {
+padding: 15px;
+text-align: center;
+font-family: 'Peddana', serif;
+font-size: 20px;
+
+}
